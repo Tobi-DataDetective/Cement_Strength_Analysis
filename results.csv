@@ -1,0 +1,13 @@
+Algorithm,accuracy
+Random Forest,0.8808940615999828
+Random Forest Regressor k_fold,0.7893748860466638
+Gradient Boosting Regressor,0.8817764588104924
+Gradient Boosting Regressor_kfold,0.769183766601798
+Adaboost Regressor,0.764550515691229
+Adaboost Regressor_kfold,0.588641281706427
+KNeighbors Regressor,0.628962537332703
+KNeighbors Regressor_kfold,0.6647101262104161
+Bagging Regressor,0.8796823408343184
+Bagging Regressor_kfold,0.7424111935946893
+SVM Regressor,0.46082478599385
+SVM_kfold,0.7108017668439924
